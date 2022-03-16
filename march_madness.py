@@ -7,10 +7,8 @@ Created on Tue Mar  1 21:35:03 2022
 """
 
 import pandas as pd # for reading csv's and creating the dataframe
-import matplotlib.pyplot as plt #for plotting
 import os #for changing the directory
 import random
-import numpy as np
 
 #First Round Function
 
